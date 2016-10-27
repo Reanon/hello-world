@@ -4,6 +4,10 @@ int main()
 {
     int a,b;
     cin >> a >> b;
-    cout << a+b << endl;
+ 
+    
+    double fsagas;
+    int manx;
+    cout<<endl;
     return 0;
 }
